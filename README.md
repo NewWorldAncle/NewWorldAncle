@@ -3,7 +3,7 @@
 
 :email: email: pakr5773@kakao.com
 
-<h2> My tech stack :computer: </h2>
+<h2> :computer: My tech stack </h2>
 
 ![java](https://img.shields.io/badge/-Java-007396.svg?style=for-the-badge&logo=Java&logoColor=ffffff)
 ![spring](https://img.shields.io/badge/-Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=ffffff)
