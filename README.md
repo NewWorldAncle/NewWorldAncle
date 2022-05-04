@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=1e3932&height=200&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff)
-### 안녕하세요 BackEnd 개발자를 꿈꾸는 새내기입니다 👋
+### 안녕하세요 :) BackEnd 개발자를 꿈꾸는 새내기입니다 👋
 
 :email: email: pakr5773@kakao.com
 
